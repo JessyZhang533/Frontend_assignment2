@@ -1,0 +1,25 @@
+.navbar-brand {
+	text-align: left;
+}
+
+section {
+	padding: 20px;
+}
+
+.menu-item {
+	background-color: #cccccc;
+	border: 2px solid black;
+	margin: 10px 0;
+}
+
+#header-nav {
+	background-color: #585c63;
+}
+
+#company, .item-name {
+	color: white;
+}
+
+.row-border {
+	border-bottom: 2px solid white;
+}
